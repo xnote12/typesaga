@@ -143,5 +143,5 @@ class TypeSaga():
         
       else:
         
-        print(f" No Energy Left 0/25 Acquired Points : {total}")
+        print(f"\x1b[2K\r No Energy Left 0/25 Acquired Points : {total}")
         
